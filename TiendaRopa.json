@@ -1,0 +1,122 @@
+[
+    {
+        "_id": 1,
+        "descripcion": "Chaqueta impermeable",
+        "categoria": "Abrigos",
+        "g\u00e9nero": "Femenino",
+        "talle": "M",
+        "color": "Amarillo",
+        "tela": "Lana",
+        "destinatario": "Adolescente",
+        "precio": 219.06,
+        "stock": 10
+    },
+    {
+        "_id": 2,
+        "descripcion": "Campera t\u00e9rmica",
+        "categoria": "Abrigos",
+        "g\u00e9nero": "Unisex",
+        "talle": "S",
+        "color": "Negro",
+        "tela": "Algod\u00f3n",
+        "destinatario": "Infantil",
+        "precio": 438.28,
+        "stock": 38
+    },
+    {
+        "_id": 3,
+        "descripcion": "Gorra ajustable",
+        "categoria": "Accesorios",
+        "g\u00e9nero": "Unisex",
+        "talle": "XL",
+        "color": "Gris",
+        "tela": "Friza",
+        "destinatario": "Adulto",
+        "precio": 483.14,
+        "stock": 88
+    },
+    {
+        "_id": 4,
+        "descripcion": "Guantes de invierno",
+        "categoria": "Accesorios",
+        "g\u00e9nero": "Unisex",
+        "talle": "L",
+        "color": "Blanco",
+        "tela": "Poli\u00e9ster",
+        "destinatario": "Adulto",
+        "precio": 265.24,
+        "stock": 60
+    },
+    {
+        "_id": 5,
+        "descripcion": "Remera deportiva",
+        "categoria": "Camisas",
+        "g\u00e9nero": "Unisex",
+        "talle": "M",
+        "color": "Negro",
+        "tela": "Lana",
+        "destinatario": "Adulto",
+        "precio": 78.84,
+        "stock": 31
+    },
+    {
+        "_id": 6,
+        "descripcion": "Pantal\u00f3n de jean",
+        "categoria": "Pantalones",
+        "g\u00e9nero": "Femenino",
+        "talle": "L",
+        "color": "Rojo",
+        "tela": "Lino",
+        "destinatario": "Infantil",
+        "precio": 275.85,
+        "stock": 65
+    },
+    {
+        "_id": 7,
+        "descripcion": "Gorra ajustable",
+        "categoria": "Accesorios",
+        "g\u00e9nero": "Masculino",
+        "talle": "S",
+        "color": "Violeta",
+        "tela": "Lino",
+        "destinatario": "Infantil",
+        "precio": 147.24,
+        "stock": 89
+    },
+    {
+        "_id": 8,
+        "descripcion": "Camisa de vestir",
+        "categoria": "Camisas",
+        "g\u00e9nero": "Femenino",
+        "talle": "XL",
+        "color": "Violeta",
+        "tela": "Algod\u00f3n",
+        "destinatario": "Adulto",
+        "precio": 257.49,
+        "stock": 24
+    },
+    {
+        "_id": 9,
+        "descripcion": "Campera t\u00e9rmica",
+        "categoria": "Abrigos",
+        "g\u00e9nero": "Femenino",
+        "talle": "XL",
+        "color": "Negro",
+        "tela": "Lino",
+        "destinatario": "Infantil",
+        "precio": 407.3,
+        "stock": 44
+    },
+    {
+        "_id": 10,
+        "descripcion": "Zapatillas urbanas",
+        "categoria": "Zapatos",
+        "g\u00e9nero": "Femenino",
+        "talle": "M",
+        "color": "Blanco",
+        "tela": "Algod\u00f3n",
+        "destinatario": "Infantil",
+        "precio": 450.78,
+        "stock": 17
+    }
+]

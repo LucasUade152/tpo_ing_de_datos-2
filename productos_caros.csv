@@ -1,0 +1,10 @@
+_id,descripcion,categoria,género,talle,color,tela,destinatario,precio,stock
+1,Chaqueta impermeable,Abrigos,Femenino,M,Amarillo,Lana,Adolescente,219.06,10
+2,Campera térmica,Abrigos,Unisex,S,Negro,Algodón,Infantil,438.28,38
+3,Gorra ajustable,Accesorios,Unisex,XL,Gris,Friza,Adulto,483.14,88
+4,Guantes de invierno,Accesorios,Unisex,L,Blanco,Poliéster,Adulto,265.24,60
+6,Pantalón de jean,Pantalones,Femenino,L,Rojo,Lino,Infantil,275.85,65
+7,Gorra ajustable,Accesorios,Masculino,S,Violeta,Lino,Infantil,147.24,89
+8,Camisa de vestir,Camisas,Femenino,XL,Violeta,Algodón,Adulto,257.49,24
+9,Campera térmica,Abrigos,Femenino,XL,Negro,Lino,Infantil,407.3,44
+10,Zapatillas urbanas,Zapatos,Femenino,M,Blanco,Algodón,Infantil,450.78,17
